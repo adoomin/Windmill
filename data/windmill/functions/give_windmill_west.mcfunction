@@ -1,0 +1,1 @@
+give @p minecraft:sheep_spawn_egg{display:{Name:'{"text":"풍차(서쪽)","color":"aqua","bold":true}'},EntityTag:{id:"minecraft:armor_stand",Tags:["windmill_w"],NoGravity:1b,Invisible:1b,Rotation:[180f,0f]}} 1
